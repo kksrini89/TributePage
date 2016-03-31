@@ -1,0 +1,19 @@
+body{
+    margin:60px;
+}
+
+@media (max-width:767px){
+    .history-incidents{
+        margin:0px 100px;
+    }
+}
+@media(min-width:768px){
+    .history-incidents{
+        margin:0px 100px;
+    }
+}
+@media(max-width:992px){
+    .history-incidents{
+        margin:0px 100px;
+    }
+}
